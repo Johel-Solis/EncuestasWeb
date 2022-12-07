@@ -1,0 +1,30 @@
+.form-control-sm{
+	margin: 5px;
+	width: 45%;
+}
+
+.form-control-lg {
+	width: 70%;
+	height: 80px;
+	margin: 0 auto;
+}
+
+/*.fa-remove2 {
+    color: red;
+}
+
+.fa2 {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    /*-moz-osx-font-smoothing: grayscale;
+}
+
+.fa-remove2:before{
+    content: "\f00d";
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}*/
